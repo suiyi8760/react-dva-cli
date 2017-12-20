@@ -1,11 +1,23 @@
 {
   "name": "react-dva-cli",
   "version": "0.1.0",
-  "description": "",
+  "description": "Auto React-Dva project template",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "react-dva-cli": "./index.js"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiyi8760/react-dva-cli"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "suiyi8760@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suiyi8760/react-dva-cli/issues"
+  },
+  "homepage": "https://github.com/suiyi8760/react-dva-cli#readme",
+  "dependencies": {}
 }
