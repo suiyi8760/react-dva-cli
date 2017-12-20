@@ -11,17 +11,8 @@ let config = {}
 
 /*process.argv.slice(2).forEach(item => {
     switch (item) {
-        case "-j":
-            config.jquery = true;
-            break;
-        case "-s":
-            config.swiper = true;
-            break;
-        case "-v":
-            config.vue = true;
-            break;
-        case "-b":
-            config.bootstrap = true;
+        case "-antd":
+            config.antd = true;
             break;
     }
 });*/
