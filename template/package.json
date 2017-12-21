@@ -1,6 +1,4 @@
 {
-  "private": true,
-  "name": "react-dva-cli",
   "version": "0.0.1",
   "scripts": {
     "dev": "cross-env PORT=3000 roadhog server",
